@@ -4,7 +4,8 @@ Instrumente utilizate:
 - Microsoft Access: Proiectarea bazei de date relaționale și implementarea interogărilor complexe.
 - Microsoft Excel:
   - Data Quality: Curățarea și validarea datelor;
-  - Analiză descriptivă: Utilizarea Data Analysis Toolpak pentru indicatori statistici.
+  - Analiză descriptivă: Utilizarea Data Analysis Toolpak pentru indicatori statistici;
+  - Optimizare: Utilizarea funcției Solver pentru maximizarea profitului obținut din acțiuni.
 - Power BI: Crearea unui dashboard interactiv pentru monitorizarea indicatorilor cheie (KPIs), evoluția vânzărilor pe ani și distribuția volumului de acțiuni tranzacționate.
 
 Funcționalități cheie:
